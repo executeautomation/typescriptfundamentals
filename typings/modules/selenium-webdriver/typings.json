@@ -1,0 +1,9 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/sfali23/typings-selenium-webdriver/bcda29f4ba316f5aa444b35e314c1ab46d1f82b8/typings.json",
+    "raw": "registry:npm/selenium-webdriver#3.0.0-beta-2+20160908165836",
+    "main": "index.d.ts",
+    "name": "selenium-webdriver"
+  }
+}
